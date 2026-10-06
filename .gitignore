@@ -1,0 +1,9 @@
+# Temporary files
+test_*
+preview_*
+verify_*
+final_*
+mayur_pages_images/
+extracted_mayur_images/
+*.py
+__pycache__/
