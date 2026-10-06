@@ -52,7 +52,7 @@ To run this project locally on your machine:
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/Rudraksh-Rajpurohit/Personal-Blog.git
+   git clone https://github.com/rudrakshrajpurohit417-sketch/Personal-Blog.git
    cd Personal-Blog
    ```
 2. Open `index.html` in your web browser:
